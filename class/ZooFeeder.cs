@@ -1,4 +1,4 @@
-namespace uke_1_medium.AnimalPen;
+using uke_1_medium.AnimalPen;
 
 public class ZooFeeder
 {
